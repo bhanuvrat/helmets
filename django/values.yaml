@@ -10,6 +10,12 @@ image:
   # Overrides the image tag whose default is the chart version.
   tag: ""
 
+imageCredentials:
+  registry: ""
+  username: ""
+  password: ""
+  email: ""
+
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
@@ -77,3 +83,5 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+dotenv: []
