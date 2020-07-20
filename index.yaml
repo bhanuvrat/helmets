@@ -3,7 +3,7 @@ entries:
   django:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-20T11:54:43.958897627+05:30"
+    created: "2020-07-20T12:27:06.26138186+05:30"
     description: A Helm chart for Kubernetes
     digest: e25630531991f98632c023f01ef2514a7ed85635dd1ccbec45fa02112eb0aca9
     name: django
@@ -14,7 +14,7 @@ entries:
   nodeapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-20T11:54:43.959602057+05:30"
+    created: "2020-07-20T12:27:06.262229426+05:30"
     description: A Helm chart for Kubernetes
     digest: 45aa79440160c0ece26ec98f59a759e56edc77f9efa91b403fbe2f03d3f00702
     name: nodeapp
@@ -22,4 +22,4 @@ entries:
     urls:
     - http://bhanuvrat.github.io/helmets/docs/nodeapp-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-20T11:54:43.95811474+05:30"
+generated: "2020-07-20T12:27:06.260383752+05:30"
